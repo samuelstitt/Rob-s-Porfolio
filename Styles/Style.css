@@ -1,0 +1,13 @@
+/* myStyle.css */
+body {
+ background-color: white;
+}
+h1 {
+ color: black;
+ text-align: center;
+ font: italic 200% fantasy;
+}
+p { 
+ color: #333300;
+ text-align: center;
+}
