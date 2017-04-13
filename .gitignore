@@ -1,0 +1,11 @@
+# Eclipse
+.project
+.pydevproject
+.settings
+.buildpath
+
+# IntelliJ files #
+.idea
+*.iml
+
+.DS_Store
